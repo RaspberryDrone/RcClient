@@ -1,0 +1,6 @@
+$ git status
+
+
+# ignore 
+RcClient/*.pro.user
+
