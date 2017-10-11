@@ -4,3 +4,4 @@ $ git status
 # ignore 
 RcClient/*.pro.user
 
+RcClient/*.autosave
